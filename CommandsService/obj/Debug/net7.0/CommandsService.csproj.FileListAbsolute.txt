@@ -42,3 +42,10 @@
 /Users/iraporchia/Desktop/microservicesCourse/CommandsService/obj/Debug/net7.0/CommandsService.pdb
 /Users/iraporchia/Desktop/microservicesCourse/CommandsService/obj/Debug/net7.0/CommandsService.genruntimeconfig.cache
 /Users/iraporchia/Desktop/microservicesCourse/CommandsService/obj/Debug/net7.0/ref/CommandsService.dll
+/Users/iraporchia/Desktop/microservicesCourse/CommandsService/bin/Debug/net7.0/RabbitMQ.Client.dll
+/Users/iraporchia/Desktop/microservicesCourse/CommandsService/bin/Debug/net7.0/appsettings.Production.json
+/Users/iraporchia/Desktop/microservicesCourse/CommandsService/bin/Debug/net7.0/Google.Protobuf.dll
+/Users/iraporchia/Desktop/microservicesCourse/CommandsService/bin/Debug/net7.0/Grpc.Core.Api.dll
+/Users/iraporchia/Desktop/microservicesCourse/CommandsService/bin/Debug/net7.0/Grpc.Net.Client.dll
+/Users/iraporchia/Desktop/microservicesCourse/CommandsService/bin/Debug/net7.0/Grpc.Net.Common.dll
+/Users/iraporchia/Desktop/microservicesCourse/CommandsService/bin/Debug/net7.0/Grpc.Net.Client.Web.dll
